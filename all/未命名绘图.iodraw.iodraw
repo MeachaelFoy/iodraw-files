@@ -150,6 +150,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="hA2jQ4hB8-teL3roG78Y-36" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2210" y="990" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
