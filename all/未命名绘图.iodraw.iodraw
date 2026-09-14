@@ -50,7 +50,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hA2jQ4hB8-teL3roG78Y-57" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;数字量输入&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;（光耦隔离、滤波、信号处理）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1081" y="710" width="174" height="70" as="geometry" />
+          <mxGeometry x="-1081" y="720" width="174" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hA2jQ4hB8-teL3roG78Y-60" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;数字量输出&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;（光耦隔离、驱动）&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1081" y="960" width="174" height="70" as="geometry" />
