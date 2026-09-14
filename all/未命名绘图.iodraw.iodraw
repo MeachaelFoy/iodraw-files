@@ -5,19 +5,19 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="hA2jQ4hB8-teL3roG78Y-2" value="7414 施密特触发器&#xa;时序整形 / 边沿修复" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1840" y="371" width="206" height="66" as="geometry" />
+          <mxGeometry x="2340" y="431" width="206" height="66" as="geometry" />
         </mxCell>
         <mxCell id="hA2jQ4hB8-teL3roG78Y-3" value="现场强电输出" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3027" y="832" width="205" height="121" as="geometry" />
+          <mxGeometry x="3527" y="892" width="205" height="121" as="geometry" />
         </mxCell>
         <mxCell id="hA2jQ4hB8-teL3roG78Y-4" value="CPU 运算核心板" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1061" y="40" width="1010" height="432" as="geometry" />
+          <mxGeometry x="1561" y="100" width="1010" height="432" as="geometry" />
         </mxCell>
         <mxCell id="hA2jQ4hB8-teL3roG78Y-5" value="I/O 扩展底板" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="268" y="492" width="2624" height="532" as="geometry" />
+          <mxGeometry x="768" y="552" width="2624" height="532" as="geometry" />
         </mxCell>
         <mxCell id="hA2jQ4hB8-teL3roG78Y-6" value="悬浮隔离电源系统" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="2606" y="527" width="262" height="282" as="geometry" />
+          <mxGeometry x="3106" y="587" width="262" height="282" as="geometry" />
         </mxCell>
         <mxCell id="hA2jQ4hB8-teL3roG78Y-7" value="Buck 降压电路&#xa;24V -&amp;gt; 5V/3.3V" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="hA2jQ4hB8-teL3roG78Y-6">
           <mxGeometry x="43" y="46" width="192" height="66" as="geometry" />
@@ -31,62 +31,62 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hA2jQ4hB8-teL3roG78Y-10" value="现场强电输入" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="686" width="198" height="121" as="geometry" />
+          <mxGeometry x="520" y="746" width="198" height="121" as="geometry" />
         </mxCell>
         <mxCell id="hA2jQ4hB8-teL3roG78Y-11" value="36路 DI 物理端子&#xa;24V" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="45" y="721" width="148" height="51" as="geometry" />
+          <mxGeometry x="545" y="781" width="148" height="51" as="geometry" />
         </mxCell>
         <mxCell id="hA2jQ4hB8-teL3roG78Y-12" value="RC无源滤波网络&#xa;硬件去抖" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="293" y="713" width="175" height="66" as="geometry" />
+          <mxGeometry x="793" y="773" width="175" height="66" as="geometry" />
         </mxCell>
         <mxCell id="hA2jQ4hB8-teL3roG78Y-13" value="常规光耦阵列&#xa;物理电平隔离" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="518" y="713" width="156" height="66" as="geometry" />
+          <mxGeometry x="1018" y="773" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="hA2jQ4hB8-teL3roG78Y-14" value="移位寄存器&#xa;并行状态 -&amp;gt; 串行流" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="724" y="713" width="219" height="66" as="geometry" />
+          <mxGeometry x="1224" y="773" width="219" height="66" as="geometry" />
         </mxCell>
         <mxCell id="hA2jQ4hB8-teL3roG78Y-15" value="数字隔离器/逻辑光耦&#xa;高频通信/脉冲透传" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2224" y="917" width="212" height="66" as="geometry" />
+          <mxGeometry x="2724" y="977" width="212" height="66" as="geometry" />
         </mxCell>
         <mxCell id="hA2jQ4hB8-teL3roG78Y-16" value="移位寄存器&#xa;串行流 -&amp;gt; 并行状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2221" y="693" width="219" height="66" as="geometry" />
+          <mxGeometry x="2721" y="753" width="219" height="66" as="geometry" />
         </mxCell>
         <mxCell id="hA2jQ4hB8-teL3roG78Y-17" value="DRV8803 低侧驱动阵列&#xa;功率放大与反压钳位" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2626" y="859" width="222" height="66" as="geometry" />
+          <mxGeometry x="3126" y="919" width="222" height="66" as="geometry" />
         </mxCell>
         <mxCell id="hA2jQ4hB8-teL3roG78Y-18" value="M30626 16位 MCU&#xa;逻辑运算 / 任务调度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1086" y="191" width="206" height="66" as="geometry" />
+          <mxGeometry x="1586" y="251" width="206" height="66" as="geometry" />
         </mxCell>
         <mxCell id="hA2jQ4hB8-teL3roG78Y-19" value="LFXP2-8E FPGA&#xa;10轴硬件脉冲 / 解码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1467" y="371" width="207" height="66" as="geometry" />
+          <mxGeometry x="1967" y="431" width="207" height="66" as="geometry" />
         </mxCell>
         <mxCell id="hA2jQ4hB8-teL3roG78Y-20" value="R1LV0108E SRAM&#xa;CR2032 电池保电" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1502" y="115" width="136" height="90" as="geometry" />
+          <mxGeometry x="2002" y="175" width="136" height="90" as="geometry" />
         </mxCell>
         <mxCell id="hA2jQ4hB8-teL3roG78Y-21" value="ADM3232E / MAX13085&#xa;RS-232 / RS-485" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1458" y="255" width="223" height="66" as="geometry" />
+          <mxGeometry x="1958" y="315" width="223" height="66" as="geometry" />
         </mxCell>
         <mxCell id="hA2jQ4hB8-teL3roG78Y-22" value="24路 DO 物理端子&#xa;直驱继电器/伺服" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3052" y="867" width="155" height="51" as="geometry" />
+          <mxGeometry x="3552" y="927" width="155" height="51" as="geometry" />
         </mxCell>
         <mxCell id="hA2jQ4hB8-teL3roG78Y-23" value="并行内存总线" style="curved=1;startArrow=block;endArrow=block;strokeWidth=3;exitX=0.97;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="hA2jQ4hB8-teL3roG78Y-18" target="hA2jQ4hB8-teL3roG78Y-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1375" y="160" />
+              <mxPoint x="1875" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hA2jQ4hB8-teL3roG78Y-24" value="UART 通信" style="curved=1;startArrow=block;endArrow=block;strokeWidth=3;exitX=0.97;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="hA2jQ4hB8-teL3roG78Y-18" target="hA2jQ4hB8-teL3roG78Y-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1375" y="288" />
+              <mxPoint x="1875" y="348" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hA2jQ4hB8-teL3roG78Y-25" value="任务配置与读取" style="curved=1;startArrow=block;endArrow=block;strokeWidth=3;exitX=0.67;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="hA2jQ4hB8-teL3roG78Y-18" target="hA2jQ4hB8-teL3roG78Y-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1375" y="404" />
+              <mxPoint x="1875" y="464" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -113,38 +113,38 @@
         <mxCell id="hA2jQ4hB8-teL3roG78Y-30" value="串行读取" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0.46;entryY=1;rounded=0;" edge="1" parent="1" source="hA2jQ4hB8-teL3roG78Y-14" target="hA2jQ4hB8-teL3roG78Y-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1061" y="746" />
+              <mxPoint x="1561" y="806" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hA2jQ4hB8-teL3roG78Y-31" value="串行写入" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.71;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="hA2jQ4hB8-teL3roG78Y-18" target="hA2jQ4hB8-teL3roG78Y-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1375" y="80" />
-              <mxPoint x="2071" y="80" />
-              <mxPoint x="2146" y="726" />
+              <mxPoint x="1875" y="140" />
+              <mxPoint x="2571" y="140" />
+              <mxPoint x="2646" y="786" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hA2jQ4hB8-teL3roG78Y-32" value="纳秒级硬连线" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="hA2jQ4hB8-teL3roG78Y-2" target="hA2jQ4hB8-teL3roG78Y-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2071" y="404" />
-              <mxPoint x="2146" y="950" />
+              <mxPoint x="2571" y="464" />
+              <mxPoint x="2646" y="1010" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hA2jQ4hB8-teL3roG78Y-33" value="" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=1;exitY=0.5;entryX=0.31;entryY=0;rounded=0;" edge="1" parent="1" source="hA2jQ4hB8-teL3roG78Y-16" target="hA2jQ4hB8-teL3roG78Y-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2523" y="726" />
+              <mxPoint x="3023" y="786" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hA2jQ4hB8-teL3roG78Y-34" value="高速隔离数字波" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=1;exitY=0.5;entryX=0;entryY=0.96;rounded=0;" edge="1" parent="1" source="hA2jQ4hB8-teL3roG78Y-15" target="hA2jQ4hB8-teL3roG78Y-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2523" y="950" />
+              <mxPoint x="3023" y="1010" />
             </Array>
           </mxGeometry>
         </mxCell>
